@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Juyoung Kim</h1>
 <h3 align="center">I'm Mechanic, Piping Designer, 3D modeler from South Korea. I'm interested in Backend, AI.</h3>
 
-- 🌱 I’m currently learning **Django**
+- 🌱 I’m currently learning **Deep Learning(Computer Vision)**
 
 - 📫 How to reach me **jk042386@gmail.com**
 
