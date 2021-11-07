@@ -4,6 +4,24 @@
 
 - 📫 How to reach me **jk042386@gmail.com**
 
+<h3 align="left">Project</h3>
+
+| Type  | Date  | Organization  |
+|---|---|---|
+| [Image Classification](https://github.com/JadeKim042386/image-classification-level1-09)  | 2021.08.23 ~ 2021.09.02  |  Boostcamp AI Tech |
+| [Object Detection](https://github.com/JadeKim042386/object-detection-level2-cv-17) |  2021.09.27 ~ 2021.10.14  |  Boostcamp AI Tech |
+| Semantic Segmentation  | 2021.10.18 ~ 2021.11.04 | Boostcamp AI Tech |
+
+<h3 align="left">Certificate</h3>
+
+| Name  | Date  | Organization  |
+|---|---|---|
+| [TensorFlow Developer](https://www.credential.net/1fd6e6f3-6ac7-4247-9fb3-1393c4405c33#gs.f4jpqz)  | 2021.08.16 ~ 2024.08.16  |  TensorFlow |
+| Industrial Engineer Machinery Design |  2017.11.24  |  Human Resources Development Service of Korea |
+| Industrial Engineer Computer Aided Manufacturing  | 2017.07.14 | Human Resources Development Service of Korea |
+| Craftsman Information Equipment Operation | 2017.04.26 | Human Resources Development Service of Korea |
+| Craftsman Information Processing | 2017.02.15 | Human Resources Development Service of Korea |
+
 <h3 align="left">History</h3>
 
 | Type  | Date  | Contents  |
