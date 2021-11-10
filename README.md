@@ -10,7 +10,7 @@
 |---|---|---|
 | [Image Classification](https://github.com/JadeKim042386/image-classification-level1-09)  | 2021.08.23 ~ 2021.09.02  |  Boostcamp AI Tech |
 | [Object Detection](https://github.com/JadeKim042386/object-detection-level2-cv-17) |  2021.09.27 ~ 2021.10.14  |  Boostcamp AI Tech |
-| Semantic Segmentation  | 2021.10.18 ~ 2021.11.04 | Boostcamp AI Tech |
+| [Semantic Segmentation](https://github.com/JadeKim042386/semantic-segmentation-level2-cv-17)  | 2021.10.18 ~ 2021.11.04 | Boostcamp AI Tech |
 
 <h3 align="left">Certificate</h3>
 
