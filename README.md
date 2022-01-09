@@ -13,6 +13,7 @@
 | [Semantic Segmentation](https://github.com/JadeKim042386/semantic-segmentation-level2-cv-17)  | 2021.10.18 ~ 2021.11.04 | Boostcamp AI Tech |
 | [Model Optimization](https://github.com/JadeKim042386/model-optimization-level3-cv-17)  | 2021.11.22 ~ 2021.12.02 | Boostcamp AI Tech |
 | [Final Project (Food Web Service)](https://github.com/JadeKim042386/model-optimization-level3-cv-17)  | 2021.11.19 ~ 2021.12.21 | Boostcamp AI Tech |
+| [Toy Project - Face Paste](https://github.com/JadeKim042386/face-paste)  | - | - |
 
 <h3 align="left">Certificate</h3>
 
