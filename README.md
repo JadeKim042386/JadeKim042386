@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Juyoung Kim</h1>
 
-- 🌱 I’m currently learning **Deep Learning(Computer Vision - Image Classification, Object Detection, Semantic Segmentation)**
+- 🌱 I’m currently in **OCR**
 
 - 📫 How to reach me **jk042386@gmail.com**
 
