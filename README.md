@@ -18,7 +18,7 @@
 
 | Name  | Date  | Organization  |
 |---|---|---|
-| AIDE Level-2  | 2023.01.17 | Korea Artificial Intelligence Association Qualification Center |
+| AIDE Level-1  | 2023.02.07 | Korea Artificial Intelligence Association Qualification Center |
 | [TensorFlow Developer](https://www.credential.net/1fd6e6f3-6ac7-4247-9fb3-1393c4405c33#gs.f4jpqz)  | 2021.08.16 ~ 2024.08.16  |  TensorFlow |
 | Industrial Engineer Machinery Design |  2017.11.24  |  Human Resources Development Service of Korea |
 | Industrial Engineer Computer Aided Manufacturing  | 2017.07.14 | Human Resources Development Service of Korea |
