@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Juyoung Kim</h1>
 
-- 🌱 I’m currently in **OCR**
+- 🌱 [RESUME](https://www.notion.so/80270f169b9a4d75bfc90a80ace00f49?pvs=4)
 
 - 📫 How to reach me **jk042386@gmail.com**
 
