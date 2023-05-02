@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Juyoung Kim</h1>
 
-- 🌱 [RESUME](https://exclusive-powder-b84.notion.site/80270f169b9a4d75bfc90a80ace00f49)
+- 🌱 [RESUME for develop](https://exclusive-powder-b84.notion.site/80270f169b9a4d75bfc90a80ace00f49)
 
 - 📫 How to reach me **jk042386@gmail.com**
 
