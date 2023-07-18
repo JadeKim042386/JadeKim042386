@@ -28,7 +28,7 @@
 
 <h3 align="left">History</h3>
 
-| Type  | Date  | Contents  |
+| Task  | Date  | Contents  |
 |---|---|---|
 | Plumbing Design  | 2018.01 ~ 2018.12  |  SK hynix - MF Project |
 | Plumbing Design |  2018.12 ~ 2019.03  |  SK hynix - Wuxi Project |
