@@ -12,7 +12,6 @@
 | AI (Optimization) Competition | [Model Optimization](https://github.com/JadeKim042386/model-optimization-level3-cv-17)  | 2021.11.22 ~ 2021.12.02 | Boostcamp AI Tech | Close |
 | AI (Computer Vision) Web Service | [Food Web Service](https://github.com/JadeKim042386/final-project-level3-cv-18)  | 2021.11.19 ~ 2021.12.21 | Boostcamp AI Tech | Close |
 | Dart/Flutter App Service | [pomotimer](https://github.com/JadeKim042386/pomotimer) | 2023.04.27 ~ | Personal | Intermittent Develop |
-| Java/Spring Web Service | [project-board](https://github.com/JadeKim042386/project-board) | 2023.07.04 ~ | Personal | Develop |
 
 <h3 align="left">Certificate</h3>
 
