@@ -6,12 +6,9 @@
 
 | Type | Project  | Date  | Organization  | State |
 |---|---|---|---|---|
-| AI (Computer Vision) Competition | [Image Classification](https://github.com/JadeKim042386/image-classification-level1-09)  | 2021.08.23 ~ 2021.09.02  |  Boostcamp AI Tech | Close |
-| AI (Computer Vision) Competition | [Object Detection](https://github.com/JadeKim042386/object-detection-level2-cv-17) |  2021.09.27 ~ 2021.10.14  |  Boostcamp AI Tech | Close |
-| AI (Computer Vision) Competition | [Semantic Segmentation](https://github.com/JadeKim042386/semantic-segmentation-level2-cv-17)  | 2021.10.18 ~ 2021.11.04 | Boostcamp AI Tech | Close |
-| AI (Optimization) Competition | [Model Optimization](https://github.com/JadeKim042386/model-optimization-level3-cv-17)  | 2021.11.22 ~ 2021.12.02 | Boostcamp AI Tech | Close |
-| AI (Computer Vision) Web Service | [Food Web Service](https://github.com/JadeKim042386/final-project-level3-cv-18)  | 2021.11.19 ~ 2021.12.21 | Boostcamp AI Tech | Close |
-| Dart/Flutter App Service | [pomotimer](https://github.com/JadeKim042386/pomotimer) | 2023.04.27 ~ | Personal | Intermittent Develop |
+| AI Competition | [Image Classification](https://github.com/JadeKim042386/image-classification-level1-09) <br> [Object Detection](https://github.com/JadeKim042386/object-detection-level2-cv-17) <br> [Semantic Segmentation](https://github.com/JadeKim042386/semantic-segmentation-level2-cv-17) <br> [Model Optimization](https://github.com/JadeKim042386/model-optimization-level3-cv-17) | 2021.08.23 ~ 2021.09.02 <br> 2021.09.27 ~ 2021.10.14 <br> 2021.10.18 ~ 2021.11.04 <br> 2021.11.22 ~ 2021.12.02 |  Boostcamp AI Tech | Close |
+| AI (Computer Vision) Web Service | [Food Web Service](https://github.com/JadeKim042386/final-project-level3-cv-18)  | 2021.11.19 ~ 2021.12.21 | Boostcamp AI Tech | Close(No Deploy) |
+| Dart/Flutter App Service | [pomotimer](https://github.com/JadeKim042386/pomotimer) | 2023.04.27 ~ | Personal | Pause |
 
 <h3 align="left">Certificate</h3>
 
