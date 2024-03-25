@@ -40,3 +40,4 @@
 External Tools : AutoCAD, Inventor, Navisworks  
 
 [![Juyoung's GitHub stats](https://github-readme-stats.vercel.app/api?username=JadeKim042386)](https://github.com/anuraghazra/github-readme-stats)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=holmes9921)](https://solved.ac/holmes9921/)
