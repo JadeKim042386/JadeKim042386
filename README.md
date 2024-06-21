@@ -12,7 +12,15 @@
 | AI (Computer Vision) Web Service | [Food Web Service](https://github.com/JadeKim042386/final-project-level3-cv-18)  | 2021.11.19 ~ 2021.12.21 | Boostcamp AI Tech | Close(No Deploy) |
 | AI Competition | [Image Classification](https://github.com/JadeKim042386/image-classification-level1-09) <br> [Object Detection](https://github.com/JadeKim042386/object-detection-level2-cv-17) <br> [Semantic Segmentation](https://github.com/JadeKim042386/semantic-segmentation-level2-cv-17) <br> [Model Optimization](https://github.com/JadeKim042386/model-optimization-level3-cv-17) | 2021.08.23 ~ 2021.12.02 |  Boostcamp AI Tech | Close |
 
+<h3 align="left">Languages and Tools:</h3>
+<a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
+
+[![Juyoung's GitHub stats](https://github-readme-stats.vercel.app/api?username=JadeKim042386)](https://github.com/anuraghazra/github-readme-stats)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=holmes9921)](https://solved.ac/holmes9921/)
+
+<details>
+<summary><h3>More Details</h3></summary>
 
 <h3 align="left">Certificate</h3>
 
@@ -25,13 +33,6 @@
 | Craftsman Information Equipment Operation | 2017.04.26 | Human Resources Development Service of Korea |
 | Craftsman Information Processing | 2017.02.15 | Human Resources Development Service of Korea |
 
-<h3 align="left">Languages and Tools:</h3>
-<a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
-
-
-[![Juyoung's GitHub stats](https://github-readme-stats.vercel.app/api?username=JadeKim042386)](https://github.com/anuraghazra/github-readme-stats)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=holmes9921)](https://solved.ac/holmes9921/)
-
 <h3 align="left">History</h3>
 
 | Task  | Date  | Contents  |
@@ -43,5 +44,4 @@
 | Skid Design | 2021.01 ~ 2021.05 | Kurita - Y7 Project |
 | External Activity | 2021.08 ~ 2021.12 | [Boostcamp AI Tech](https://boostcamp.connect.or.kr/) - Computer Vision |
 | OCR R&D | 2022.03 ~ 2023.03 | [zezedu](https://zezedu.com/) |
-
-
+</details>
