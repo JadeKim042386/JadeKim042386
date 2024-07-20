@@ -8,7 +8,7 @@
 |---|---|---|---|---|
 | Web Service | [Freshtrash Backend](https://github.com/fresh-trash-project/fresh-trash-backend) | 2024.03.21 ~ | [Freshtrash Team](https://github.com/fresh-trash-project) | Ongoing |
 | Web Service | [My3D](https://github.com/JadeKim042386/My3d) <br> [My3D-BACKEND](https://github.com/JadeKim042386/My3d-BACKEND) | 2023.08.03 ~ 2024.04.26 | Personal | Pause |
-| Dart/Flutter App Service | [pomotimer](https://github.com/JadeKim042386/pomotimer) | 2023.04.27 ~ 2023.06.02 | Personal | Deploy |
+| Dart/Flutter App Service | [pomotimer](https://github.com/JadeKim042386/pomotimer) | 2023.04.27 ~ 2023.06.02 | Personal | Deploy |
 | AI (Computer Vision) Web Service | [Food Web Service](https://github.com/JadeKim042386/final-project-level3-cv-18)  | 2021.11.19 ~ 2021.12.21 | Boostcamp AI Tech | Close |
 | AI Competition | [Image Classification](https://github.com/JadeKim042386/image-classification-level1-09) <br> [Object Detection](https://github.com/JadeKim042386/object-detection-level2-cv-17) <br> [Semantic Segmentation](https://github.com/JadeKim042386/semantic-segmentation-level2-cv-17) <br> [Model Optimization](https://github.com/JadeKim042386/model-optimization-level3-cv-17) | 2021.08.23 ~ 2021.12.02 |  Boostcamp AI Tech | Close |
 
