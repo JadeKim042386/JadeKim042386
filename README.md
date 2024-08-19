@@ -2,7 +2,7 @@
 
 - 📫 How to reach me **jk042386@gmail.com**
 
-<h3 align="left">Project</h3>
+<h2 align="left">🧩 Project</h2>
 
 | Type | Project  | Date  | Organization  | State |
 |---|---|---|---|---|
@@ -12,8 +12,47 @@
 | AI (Computer Vision) Web Service | [Food Web Service](https://github.com/JadeKim042386/final-project-level3-cv-18)  | 2021.11.19 ~ 2021.12.21 | Boostcamp AI Tech | Close |
 | AI Competition | [Image Classification](https://github.com/JadeKim042386/image-classification-level1-09) <br> [Object Detection](https://github.com/JadeKim042386/object-detection-level2-cv-17) <br> [Semantic Segmentation](https://github.com/JadeKim042386/semantic-segmentation-level2-cv-17) <br> [Model Optimization](https://github.com/JadeKim042386/model-optimization-level3-cv-17) | 2021.08.23 ~ 2021.12.02 |  Boostcamp AI Tech | Close |
 
-<h3 align="left">Languages and Tools:</h3>
-<a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+<h2 align="left">🔧 Skills</h2>
+
+<h4 align="center"><strong>OS</strong></h4>
+<p align="center">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black">
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white">
+  <img src="https://img.shields.io/badge/macOS-000000?style=flat&logo=apple&logoColor=white">
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white">
+</p>
+
+<h4 align="center"><strong>Language</strong></h4>
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white">
+</p>
+
+<h4 align="center"><strong>Frontend</strong></h4>
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML-e34c26?style=flat&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS-563d7c?&style=flat&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white">
+</p>
+
+<h4 align="center"><strong>Backend</strong></h4>
+<p align="center">
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white">
+</p>
+
+<h4 align="center"><strong>Database</strong></h4>
+<p align="center">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white">
+</p>
+
+<h4 align="center"><strong>Collaboration Tools</strong></h4>
+<p align="center">
+  <img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white">
+  <img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=slack&logoColor=white">
+</p>
 
 
 [![Juyoung's GitHub stats](https://github-readme-stats.vercel.app/api?username=JadeKim042386)](https://github.com/anuraghazra/github-readme-stats)
