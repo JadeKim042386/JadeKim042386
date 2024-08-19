@@ -86,9 +86,17 @@
   <img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=slack&logoColor=white">
 </p>
 
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" height=150 src="https://github-readme-stats.vercel.app/api?username=JadeKim042386"/>
+  </a>
+</p>
 
-[![Juyoung's GitHub stats](https://github-readme-stats.vercel.app/api?username=JadeKim042386)](https://github.com/anuraghazra/github-readme-stats)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=holmes9921)](https://solved.ac/holmes9921/)
+<p align="center">
+  <a href="https://solved.ac/holmes9921/">
+    <img align="center" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=holmes9921"/>
+  </a>
+</p>
 
 <details>
 <summary><h3>More Details</h3></summary>
