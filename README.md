@@ -53,6 +53,34 @@
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white">
 </p>
 
+<h4 align="center"><strong>Data</strong></h4>
+<p align="center">
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white">
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white">
+  <img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=flat&logo=pytorch&logoColor=white">
+</p>
+
+<h4 align="center"><strong>DevOps</strong></h4>
+<p align="center">
+  <img src="https://img.shields.io/badge/Github-181717?style=flat&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white">
+  <img src="https://img.shields.io/badge/GithubActions-2088FF?style=flat&logo=githubactions&logoColor=white">
+</p>
+
+<h4 align="center"><strong>AWS</strong></h4>
+<p align="center">
+  <img src="https://img.shields.io/badge/EC2-FF9900?style=flat&logo=amazonec2&logoColor=white">
+  <img src="https://img.shields.io/badge/S3-569A31?style=flat&logo=amazons3&logoColor=white">
+  <img src="https://img.shields.io/badge/RDS-527FFF?style=flat&logo=amazonrds&logoColor=white">
+  <img src="https://img.shields.io/badge/ElastiCache-C925D1?style=flat&logo=amazonelasticache&logoColor=white">
+</p>
+
+<h4 align="center"><strong>Testing Tools</strong></h4>
+<p align="center">
+  <img src="https://img.shields.io/badge/CodeCov-F01F7A?style=flat&logo=codecov&logoColor=white">
+  <img src="https://img.shields.io/badge/Jmeter-D22128?style=flat&logo=apachejmeter&logoColor=white">
+</p>
+
 <h4 align="center"><strong>Collaboration Tools</strong></h4>
 <p align="center">
   <img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white">
