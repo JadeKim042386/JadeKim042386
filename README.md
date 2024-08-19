@@ -27,7 +27,6 @@
   <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white">
 </p>
 
 <h4 align="center"><strong>Frontend</strong></h4>
