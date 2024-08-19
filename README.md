@@ -6,7 +6,7 @@
 
 | Type | Project  | Date  | Organization  | State |
 |---|---|---|---|---|
-| Web Service | [Freshtrash Backend](https://github.com/fresh-trash-project/fresh-trash-backend) | 2024.03.21 ~ | [Freshtrash Team](https://github.com/fresh-trash-project) | Ongoing |
+| Web Service | [Freshtrash Backend](https://github.com/fresh-trash-project/fresh-trash-backend) | 2024.03.21 ~ 2024.07.17 | [Freshtrash Team](https://github.com/fresh-trash-project) | Close |
 | Web Service | [My3D](https://github.com/JadeKim042386/My3d) <br> [My3D-BACKEND](https://github.com/JadeKim042386/My3d-BACKEND) | 2023.08.03 ~ 2024.04.26 | Personal | Pause |
 | Dart/Flutter App Service | [pomotimer](https://github.com/JadeKim042386/pomotimer) | 2023.04.27 ~ 2023.06.02 | Personal | Deploy |
 | AI (Computer Vision) Web Service | [Food Web Service](https://github.com/JadeKim042386/final-project-level3-cv-18)  | 2021.11.19 ~ 2021.12.21 | Boostcamp AI Tech | Close |
