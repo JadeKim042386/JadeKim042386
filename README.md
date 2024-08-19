@@ -2,7 +2,7 @@
 
 - 📫 How to reach me **jk042386@gmail.com**
 
-<h2 align="left">🧩 Project</h2>
+<h2 align="left">🧩 Projects</h2>
 
 | Type | Project  | Date  | Organization  | State |
 |---|---|---|---|---|
