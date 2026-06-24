@@ -73,14 +73,7 @@
   </tr>
 </table>
 
-<br>
 
-## 📈 Contribution Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JadeKim042386&theme=transparent&hide_border=true&line=5B9BD5&point=FFFFFF&area=true" width="100%" />
-</p>
-
-<br>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=5B9BD5&height=100&section=footer" />
