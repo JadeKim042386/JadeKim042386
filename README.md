@@ -1,64 +1,87 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=AEC6CF&height=250&section=header&text=Hello%20World!%20I'm%20Juyoung%20Kim&fontSize=50&animation=fadeIn&fontAlignY=40&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6366F1,A855F7&height=250&section=header&text=Hello,%20I'm%20Juyoung!&fontSize=50&fontAlignY=40&fontColor=ffffff&desc=Software%20Engineer%20%26%20Tech%20Enthusiast&descAlignY=62&descAlign=50" />
   
-  <br />
-  
-  <a href="https://github.com/JadeKim042386">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=5B9BD5&center=true&vCenter=true&width=435&lines=Software+Engineer;Python+%26+Java+Backend;Flutter+App+Developer;Parametric+CAD+Enthusiast" alt="Typing SVG" />
-  </a>
+  <p align="center">
+    <a href="https://github.com/JadeKim042386">
+      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=6366F1&center=true&vCenter=true&width=435&lines=Backend+Developer;Flutter+App+Creator;Parametric+CAD+Enthusiast;Clean+Code+Advocate" alt="Typing SVG" />
+    </a>
+  </p>
+
+  <p align="center">
+    <a href="https://kjy042386.tistory.com/"><img src="https://img.shields.io/badge/Tech_Blog-FF5722?style=for-the-badge&logo=tistory&logoColor=white" /></a>
+    <img src="https://komarev.com/ghpvc/?username=JadeKim042386&color=6366F1&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views" />
+  </p>
 </div>
 
----
+<br>
 
-### 👨‍💻 About Me
-- 🔭 I’m currently working on **Parametric CAD Generation (SwiftCAD) and various side projects.**
-- 🌱 I’m currently exploring **Spring Boot backend architecture and Flutter application development.**
-- 📝 I regularly write articles on my blog: [**kjy042386.tistory.com**](https://kjy042386.tistory.com/)
-- 📫 How to reach me: Visit my blog or connect via GitHub!
+## 🧑‍💻 About Me
+<table width="100%">
+  <tr>
+    <td width="60%" valign="top">
+      <ul>
+        <li>🔭 Currently developing <b>SwiftCAD</b> (Parametric CAD Generation)</li>
+        <li>🌱 Focusing on <b>Spring Boot</b> and <b>Flutter</b> architecture</li>
+        <li>💡 Passionate about clean code, scalable backends, and beautiful UIs.</li>
+        <li>📝 Regularly posting technical logs on my <a href="https://kjy042386.tistory.com/"><b>Tistory Blog</b></a></li>
+        <li>🇰🇷 Based in South Korea</li>
+      </ul>
+    </td>
+    <td width="40%" align="center" valign="top">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JadeKim042386&layout=compact&theme=transparent&hide_border=true&title_color=6366F1" />
+    </td>
+  </tr>
+</table>
 
-<br/>
+<br>
 
-### 🛠️ Tech Stack
+## 🛠️ Tech Stack
+<table width="100%">
+  <tr>
+    <td align="center" width="33%">
+      <b>Backend</b><br><br>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=java,spring,py,mysql" />
+      </a>
+    </td>
+    <td align="center" width="33%">
+      <b>Frontend & Mobile</b><br><br>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=dart,flutter,ts,html" />
+      </a>
+    </td>
+    <td align="center" width="33%">
+      <b>Tools & Infra</b><br><br>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=docker,git,github,linux" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+## 📊 GitHub Analytics
+<table width="100%">
+  <tr>
+    <td width="50%" align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=JadeKim042386&show_icons=true&theme=transparent&hide_border=true&title_color=6366F1&icon_color=6366F1" width="100%" />
+    </td>
+    <td width="50%" align="center">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=JadeKim042386&theme=transparent&hide_border=true&fire=6366F1&ring=6366F1" width="100%" />
+    </td>
+  </tr>
+</table>
+
+<br>
+
+## 📈 Contribution Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JadeKim042386&theme=transparent&hide_border=true&line=6366F1&point=A855F7&area=true" width="100%" />
+</p>
+
+<br>
+
 <div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,java,spring,dart,flutter,ts,js,html,css,mysql,git,github,docker,linux&perline=7" />
-  </a>
-</div>
-
-<br/>
-
-### 📊 GitHub Stats & Activity
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JadeKim042386&show_icons=true&hide_border=true&bg_color=F2F9FF&title_color=5B9BD5&text_color=555555&icon_color=66CDAA" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JadeKim042386&hide_border=true&background=F2F9FF&ring=66CDAA&fire=5B9BD5&currStreakNum=555555&sideNums=555555&currStreakLabel=555555&sideLabels=555555&dates=777777" width="48%" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JadeKim042386&hide_border=true&bg_color=F2F9FF&color=555555&line=5B9BD5&point=66CDAA" width="100%" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JadeKim042386&layout=compact&hide_border=true&bg_color=F2F9FF&title_color=5B9BD5&text_color=555555" width="60%" />
-</div>
-
-<br/>
-
-### 🤝 Connect with me
-<div align="center">
-  <a href="https://github.com/JadeKim042386">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://kjy042386.tistory.com/">
-    <img src="https://img.shields.io/badge/Tech_Blog-FF5722?style=for-the-badge&logo=tistory&logoColor=white" />
-  </a>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=AEC6CF&height=100&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6366F1,A855F7&height=100&section=footer" />
 </div>
