@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=pastel&height=250&section=header&text=Hello%20World!%20I'm%20Juyoung%20Kim&fontSize=50&animation=fadeIn&fontAlignY=40" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=ffb6c1&height=250&section=header&text=Hello%20World!%20I'm%20Juyoung%20Kim&fontSize=50&animation=fadeIn&fontAlignY=40&fontColor=ffffff" />
   
   <br />
   
@@ -60,5 +60,5 @@
 <br/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=pastel&height=100&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=ffb6c1&height=100&section=footer" />
 </div>
