@@ -1,10 +1,10 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=ffb6c1&height=250&section=header&text=Hello%20World!%20I'm%20Juyoung%20Kim&fontSize=50&animation=fadeIn&fontAlignY=40&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=AEC6CF&height=250&section=header&text=Hello%20World!%20I'm%20Juyoung%20Kim&fontSize=50&animation=fadeIn&fontAlignY=40&fontColor=ffffff" />
   
   <br />
   
   <a href="https://github.com/JadeKim042386">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=F6A8B6&center=true&vCenter=true&width=435&lines=Software+Engineer;Python+%26+Java+Backend;Flutter+App+Developer;Parametric+CAD+Enthusiast" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=5B9BD5&center=true&vCenter=true&width=435&lines=Software+Engineer;Python+%26+Java+Backend;Flutter+App+Developer;Parametric+CAD+Enthusiast" alt="Typing SVG" />
   </a>
 </div>
 
@@ -29,20 +29,20 @@
 
 ### 📊 GitHub Stats & Activity
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JadeKim042386&show_icons=true&hide_border=true&bg_color=FFF0F5&title_color=FF69B4&text_color=555555&icon_color=FFB6C1" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JadeKim042386&hide_border=true&background=FFF0F5&ring=FFB6C1&fire=FF69B4&currStreakNum=555555&sideNums=555555&currStreakLabel=555555&sideLabels=555555&dates=777777" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=JadeKim042386&show_icons=true&hide_border=true&bg_color=F2F9FF&title_color=5B9BD5&text_color=555555&icon_color=66CDAA" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JadeKim042386&hide_border=true&background=F2F9FF&ring=66CDAA&fire=5B9BD5&currStreakNum=555555&sideNums=555555&currStreakLabel=555555&sideLabels=555555&dates=777777" width="48%" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JadeKim042386&hide_border=true&bg_color=FFF0F5&color=555555&line=FF69B4&point=FFB6C1" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JadeKim042386&hide_border=true&bg_color=F2F9FF&color=555555&line=5B9BD5&point=66CDAA" width="100%" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JadeKim042386&layout=compact&hide_border=true&bg_color=FFF0F5&title_color=FF69B4&text_color=555555" width="60%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JadeKim042386&layout=compact&hide_border=true&bg_color=F2F9FF&title_color=5B9BD5&text_color=555555" width="60%" />
 </div>
 
 <br/>
@@ -60,5 +60,5 @@
 <br/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=ffb6c1&height=100&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=AEC6CF&height=100&section=footer" />
 </div>
