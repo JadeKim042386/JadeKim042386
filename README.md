@@ -3,7 +3,6 @@
 <p align="center">
   <a href="mailto:jk042386@gmail.com"><img src="https://img.shields.io/badge/jk042386@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://kjy042386.tistory.com/"><img src="https://img.shields.io/badge/Tech_Blog-FF5722?style=for-the-badge&logo=tistory&logoColor=white" alt="Tech blog" /></a>
-  <a href="https://solved.ac/holmes9921/"><img src="https://img.shields.io/badge/solved.ac-holmes9921-5B9BD5?style=for-the-badge&logo=codeforces&logoColor=white" alt="solved.ac" /></a>
   <img src="https://komarev.com/ghpvc/?username=JadeKim042386&color=5B9BD5&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views" />
 </p>
 
@@ -37,7 +36,7 @@
     </td>
     <td width="38%" align="center" valign="top">
       <a href="https://github.com/JadeKim042386/context-graph">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=JadeKim042386&repo=context-graph&theme=transparent&hide_border=true&title_color=5B9BD5&icon_color=5B9BD5" width="100%" alt="context-graph repository" />
+        <img src="assets/card-context-graph.png" width="100%" alt="context-graph repository" />
       </a>
       <br><br>
       <img src="https://img.shields.io/badge/Python-3.9%2B_stdlib_only-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
@@ -131,14 +130,10 @@
 <table width="100%">
   <tr>
     <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=JadeKim042386&show_icons=true&theme=transparent&hide_border=true&title_color=5B9BD5&icon_color=5B9BD5" width="100%" alt="GitHub stats" />
+      <img src="assets/stats.png" width="100%" alt="Public repositories, stars earned and followers" />
     </td>
     <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JadeKim042386&layout=compact&theme=transparent&hide_border=true&title_color=5B9BD5" width="80%" alt="Most used languages" />
-      <br><br>
-      <a href="https://solved.ac/holmes9921/">
-        <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=holmes9921" width="80%" alt="solved.ac tier" />
-      </a>
+      <img src="assets/languages.png" width="100%" alt="Languages by code size" />
     </td>
   </tr>
 </table>
