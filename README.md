@@ -125,10 +125,10 @@
 
 <p>Hover each marker for details. Click linked credentials where available.</p>
 
-<a href="https://github.com/JadeKim042386/JadeKim042386/blob/main/assets/certificates-timeline.svg"><img src="assets/certificates-timeline.svg" width="100%" alt="Interactive certificate timeline by year" /></a>
+<a href="https://github.com/JadeKim042386/JadeKim042386/blob/main/assets/certificates-timeline-v2.svg"><img src="assets/certificates-timeline-v2.svg" width="100%" alt="Interactive certificate timeline by year" /></a>
 
 <p><b>History · by year</b></p>
 
 <p>Hover each marker for details and click linked projects.</p>
 
-<a href="https://github.com/JadeKim042386/JadeKim042386/blob/main/assets/history-timeline.svg"><img src="assets/history-timeline.svg" width="100%" alt="Interactive career history timeline by year" /></a>
+<a href="https://github.com/JadeKim042386/JadeKim042386/blob/main/assets/history-timeline-v2.svg"><img src="assets/history-timeline-v2.svg" width="100%" alt="Interactive career history timeline by year" /></a>
