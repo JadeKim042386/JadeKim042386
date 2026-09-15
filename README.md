@@ -24,11 +24,7 @@
 
 <p>Works with <b>Codex Skills</b> and the <b>Claude Code plugin</b>. Install the latest <a href="https://github.com/JadeKim042386/context-graph/releases/tag/v0.3.6">v0.3.6 release</a> or explore the source and workflow in the repository.</p>
 
-<div align="center">
-  <a href="https://github.com/JadeKim042386/context-graph">
-    <img src="https://raw.githubusercontent.com/JadeKim042386/context-graph/main/assets/demo.gif" width="100%" alt="context-graph Knowledge Engineering workflow" />
-  </a>
-</div>
+
 
 <br>
 
@@ -123,7 +119,7 @@
 
 <br>
 
-<img src="assets/section-background.svg" width="100%" alt="Background" />
+<img src="assets/section-more.png" width="100%" alt="Background" />
 
 <p><b>Certificates · by year</b></p>
 
