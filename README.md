@@ -123,7 +123,7 @@
 
 <br>
 
-<img src="assets/section-more.png" width="100%" alt="Background" />
+<img src="assets/section-background.svg" width="100%" alt="Background" />
 
 <p><b>Certificates · by year</b></p>
 
